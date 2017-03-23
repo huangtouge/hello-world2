@@ -1,2 +1,2 @@
-# hello-world2 branch read_me
-short description second time to set up repository
+# hello-world2  for branch read_me
+不求明天永恒以后，太执着，太沉重。
